@@ -1,4 +1,4 @@
-The repository `pmovestir` contains the code to reproduce the analyses described in the manuscript "How do non-independent host movements affect spatio-temporal disease dynamics? Partitioning the contributions of spatial overlap and correlated movements to transmission risk"
+The repository `pmovestir` contains the code to reproduce the analyses described in the manuscript **How do non-independent host movements affect spatio-temporal disease dynamics? Partitioning the contributions of spatial overlap and correlated movements to transmission risk**
 
 Here are the steps to reproduce the results
 
