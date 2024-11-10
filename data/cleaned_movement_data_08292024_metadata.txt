@@ -1,0 +1,18 @@
+# Metadata for the data cleaned_movement_data_08292024.csv
+
+- animal_id: Unique animal ID
+- x_: x location of animal in UTM (CRS: "+proj=utm +zone=16 +ellps=WGS84 +datum=WGS84 +units=m +no_defs")
+- y_: y location of animal in UTM (CRS: "+proj=utm +zone=16 +ellps=WGS84 +datum=WGS84 +units=m +no_defs")
+- t_: Time stamp of when fix was taken
+- dop: Dilution of precision for GPS fix
+- fix_status: Indicates the quality of the fix
+- method_of_capture: How the animal was captured
+- lat_capture: Latitude of where the animal was captured
+- long_capture: Longitude of where the animal was captured
+- age: Age of the animal
+- sex: Sex of the animal
+- duplicate_: Is this a duplicate point?
+- fast_step_: Is this considered a fast step?
+- fast_roundtrip_: Is this point associated with a fast round trip?
+- longitude: Longitude of fix
+- latitude: Latitude of fix
